@@ -13,13 +13,13 @@ exports.run = {
 │◦  Lib: Baileys MD
 │◦  Database: MongoDB
 │◦  Mode: Public
-│◦  Name: SansBot
+│◦  Name: Keno 3.8.5
 ┗────────❖
 ┏─❖「 *SUPPORT* 」
-│◦  Group: 
+│◦  Group: https://chat.whatsapp.com/INbLatNOc4b6X1Rqu0UI2y
 │◦  Owner: wa.me/6285742344873
 │◦  Script: Private
-│◦  Github: https://github.com/IyanDev2
+│◦  Github: https://github.com/IyanMods
 │◦  Insta: instagram.com/kaztzyofc
 ┗────────❖
 
@@ -176,7 +176,7 @@ exports.run = {
 │◦  ${isPrefix}runtime
 ┗────────❖
 
-*_SansBot MD_*`
+*_Keno 3.8.5 MD_*`
       client.sendMessageModify(m.chat, captions, m, {
                title: 'SansBot MD',
                largeThumb: true,
