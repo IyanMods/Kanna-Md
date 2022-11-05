@@ -8,6 +8,7 @@ exports.run = {
    }) => {
       try {
       let captions = `
+_*Keno AI 3.8.5*_  Adalah Bot Whatsapp Simple Yang Dibuat Oleh _*IyanMods,*_ _*Keno AI 3.8.5*_ Didesain Simple Dan Tidak Norak, Kamu Bisa Menggunakan Fitur Yang Tersedia Di _*Keno AI 3.8.5*_ Secara Gratis.
 
 
 ❖  *G R O U P*
@@ -158,9 +159,9 @@ exports.run = {
 ◦  ${isPrefix}premium 
 ◦  ${isPrefix}runtime
 
-*_Keno 3.8.5 MD_*`
+*_Keno AI 3.8.5 MD_*`
       client.sendMessageModify(m.chat, captions, m, {
-               title: 'Keno 3.8.5 MD',
+               title: 'Keno AI 3.8.5 MD',
                largeThumb: true,
                thumbnail: await Func.fetchBuffer('https://telegra.ph/file/a9bcf774dcaf40228b2a6.jpg'),
                url: 'https://chat.whatsapp.com/INbLatNOc4b6X1Rqu0UI2y'
