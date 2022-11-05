@@ -22,9 +22,9 @@ global.Api = new (require('./neoxrApi'))(process.env.API_KEY)
 global.chatai_bid = '164728'
 global.chatai_key = 'MKPsfkgXLZPGrWoH'
 // Source version
-global.version = '5.4.7',
+global.version = '3.8.5',
 // Footer text
-global.footer = 'Keno MD'
+global.footer = 'Keno AI 3.8.5'
 // Global status
 global.status = Object.freeze({
    wait: Func.texted('bold', 'Processed . . .'),
